@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Virtual environments
+.virtualenvironment/
+
+# Models
+deep_sort
+yolov8n.pt
+
 # Distribution / packaging
 .Python
 build/
